@@ -1,5 +1,0 @@
-.env
-node_modules/
-jwt.key
-jwt.key.pub
-files
